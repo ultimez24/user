@@ -21,4 +21,4 @@ jobs:
          with:
          args: >
              -Dsonar.organizations=ultimez24
-             -Dsonar.projectKey-SonarCloudCodeAnalyisis
+             -Dsonar.projectKey=user
